@@ -6,7 +6,7 @@ const Stack = createStackNavigator();
 import Main from './pages/Main';
 import User from './pages/User';
 
-const Routes = () => {
+const Routes = () => {r
   return (
     <NavigationContainer>
       <Stack.Navigator>
