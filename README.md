@@ -1,8 +1,3 @@
-
-# ---------------------------------
-# VEIO PELO WORKANA/LINKEDIN/CATHO? CHAMA NO WHATS: 21 96527-7739
-# ---------------------------------
-
 # rocketseat-gobarber
 Projeto Rocketseat GoBarber - NodeJS / Mongodb / React Native
 
